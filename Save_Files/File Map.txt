@@ -1,0 +1,10 @@
+Slot-0 Save_Files/Save_File_0.txt
+Slot-1 Save_Files/Save_File_1.txt
+Slot-2 Save_Files/Save_File_2.txt
+Slot-3 Save_Files/Save_File_3.txt
+NewGame! NewGame!
+NewGame! NewGame!
+NewGame! NewGame!
+NewGame! NewGame!
+NewGame! NewGame!
+NewGame! NewGame!

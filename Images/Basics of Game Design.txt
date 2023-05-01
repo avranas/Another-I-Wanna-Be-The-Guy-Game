@@ -1,0 +1,55 @@
+World 1:
+teach player how to play
+	basics
+	simple mechanics (saw)
+	Ass;
+	test if you learned
+	more mechanics
+	test again
+	World 1 mechanics tend to be used frequently
+	throughout the game. (saw, disappearing block)
+World 2:
+central theme with simple mechanic.
+You don't always have to follow this
+SMB:fan, some reoccuring enemies
+
+World 3:
+Old mechanics amped up (faster saws)
+New mechanics mixed with old (missile)
+
+World 4:
+More mechanics (portals)
+(portals that spit)
+
+World 5:
+bigger levels I think?
+More mechanics (complex)
+
+Last:
+Test everything you learned. Are you a master?
+Most intimidation. Large screens, many hazards at once,
+larger death penalty. Hard as balls. No new mechanis.
+
+
+
+World 1:
+basics (run, jump, shoot)
+simple mechanics (spike, save)
+more mechanics (platform, saw)
+Got it? (all at once!)
+
+World 2:
+Some unique, complex mechanics. (windmill, missiles
+This plus previous mechanics
+
+World 3:
+Moar spikes, troll spikes, moving spikes
+This plus complex, unique mechanics (pounder+shockwave)
+
+World 4:
+No new mechanics. Lots of time between checkpoints. Basic mechanics at their max,
+don't use previous unique mechanics. Many hazards at once.
+
+World 5:
+More time between checkpoints, more hazards at once, the most complex mechanics combined with
+worst of basic mechanics

@@ -1,0 +1,13 @@
+2
+3
+10
+World_2_World_Objects.txt
+0 5 World_2_Entrance.txt World_2_Entrance_Objects.txt
+0 6 World_2_Screen_1.txt World_2_Screen_1_Objects.txt
+1 6 World_2_Screen_2.txt World_2_Screen_2_Objects.txt
+2 6 World_2_Screen_3.txt World_2_Screen_3_Objects.txt
+2 5 World_2_Screen_4.txt World_2_Screen_4_Objects.txt
+1 5 World_2_Screen_5.txt World_2_Screen_5_Objects.txt
+0 7 Map_Under_World_2_Screen_1.txt Map_Under_World_2_Screen_1_Objects.txt
+1 7 Map_Under_World_2_Screen_2.txt Map_Under_World_2_Screen_2_Objects.txt
+2 7 Map_Under_World_2_Screen_3.txt Map_Under_World_2_Screen_3_Objects.txt

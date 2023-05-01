@@ -1,0 +1,10 @@
+9001 0 0
+18 40 500 30 12 You beat easy mode Good job. Nobody cares.
+19 40 500 30 12 Hey, thanks for playing this demo of Another I Wanna Be the Guy Clone!
+19 40 520 30 12 Once I finally decide to finish this game, this is where world 2 will start.
+19 40 540 30 12 I hope you enjoyed world 1!
+19 40 560 30 12 Drop me an email at avranas42@gmail.com if you have any feedback!
+20 40 500 30 12 Holy cow, no way! You seriously just beat hard mode?
+20 40 520 30 12 Not even I have the balls to give hard mode a serious try. I'm jealous of your
+20 40 540 30 12 skills! Seriously, I wish I could be as good at video games as you :(
+555 1146 572

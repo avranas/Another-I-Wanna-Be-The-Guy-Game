@@ -1,0 +1,23 @@
+0
+11
+2
+New_Tutorial_World_Objects.txt
+0 0 New_Tutorial_Screen_1.txt New_Tutorial_Screen_1_Objects.txt
+1 0 New_Tutorial_Screen_2.txt New_Tutorial_Screen_2_Objects.txt
+1 1 New_Tutorial_Secret_Under_Screen_2.txt New_Tutorial_Secret_Under_Screen_2_Objects.txt
+2 0 New_Tutorial_Screen_25.txt New_Tutorial_Screen_25_Objects.txt
+2 1 New_Tutorial_Under_Screen_25.txt Empty_Map_Objects.txt
+3 0 New_Tutorial_Screen_3.txt New_Tutorial_Screen_3_Objects.txt
+3 1 New_Tutorial_Under_Screen_3.txt New_Tutorial_Under_Screen_3_Objects.txt
+4 0 New_Tutorial_Screen_4.txt New_Tutorial_Screen_4_Objects.txt
+4 1 New_Tutorial_Under_Screen_4.txt New_Tutorial_Under_Screen_4_Objects.txt
+5 0 New_Tutorial_Screen_5.txt New_Tutorial_Screen_5_Objects.txt
+5 1 New_Tutorial_Under_Screen_5.txt New_Tutorial_Under_Screen_5_Objects.txt
+6 0 New_Tutorial_Screen_6.txt New_Tutorial_Screen_6_Objects.txt
+7 0 New_Tutorial_Screen_7.txt New_Tutorial_Screen_7_Objects.txt
+7 1 New_Tutorial_Under_Screen_7.txt Empty_Map_Objects.txt
+8 0 New_Tutorial_Screen_8.txt New_Tutorial_Screen_8_Objects.txt
+9 0 New_Tutorial_Screen_9.txt New_Tutorial_Screen_9_Objects.txt
+10 0 Final_Screen.txt Final_Screen_Objects.txt
+10 1 New_Tutorial_Under_Screen_25.txt Empty_Map_Objects.txt
+9 1 First_Boss_Room.txt First_Boss_Room_Objects.txt

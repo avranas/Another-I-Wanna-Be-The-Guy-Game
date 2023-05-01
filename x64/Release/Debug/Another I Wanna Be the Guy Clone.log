@@ -1,0 +1,177 @@
+﻿Build started 12/25/2014 6:23:27 PM.
+     1>Project "C:\Users\Alex\Desktop\I Wanna Be The Bunky filez\I Wanna Be The Bunky\I Wanna Be The Bunky.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"C:\Users\Binky\Desktop\SDL\SDL2-2.0.0\include" /AI"C:\Users\Binky\Desktop\SDL\SDL2-2.0.0\lib\x64" /Zi /nologo /W3 /WX- /sdl /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\I Wanna Be The Bunky.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /FR"Debug\\" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"C:\Users\Binky\Desktop\SDL\SDL2-2.0.0\include" /AI"C:\Users\Binky\Desktop\SDL\SDL2-2.0.0\lib\x64" /Zi /nologo /W3 /WX- /sdl /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\I Wanna Be The Bunky.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /FR"Debug\\" /Gd /TP /analyze- /errorReport:prompt "Boss Health.cpp" Bullet.cpp "Collision Information.cpp" Doorway.cpp Enemy.cpp "Game Event.cpp" "Music and Sound.cpp" "Smart Object.cpp" globals.cpp Hazards.cpp "I Wanna Be The Bunky.cpp" "Image Processing.cpp" main_game.cpp "Save Box.cpp" "Special Platform.cpp" Text_Box.cpp "The Kid.cpp" "Title Screen.cpp" "Worlds and Maps.cpp" timer.cpp
+         timer.cpp
+         Worlds and Maps.cpp
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(233): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(235): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(246): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(248): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(502): error C2039: 'current_world' : is not a member of 'Game'
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(502): error C2065: 'current_world' : undeclared identifier
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(502): error C2227: left of '->current_position_x' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(506): error C2039: 'current_world' : is not a member of 'Game'
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(506): error C2065: 'current_world' : undeclared identifier
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(506): error C2227: left of '->current_position_y' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>Worlds and Maps.cpp(174): warning C4018: '<' : signed/unsigned mismatch
+         Title Screen.cpp
+         The Kid.cpp
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(233): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(235): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(246): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(248): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(502): error C2039: 'current_world' : is not a member of 'Game'
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(502): error C2065: 'current_world' : undeclared identifier
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(502): error C2227: left of '->current_position_x' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(506): error C2039: 'current_world' : is not a member of 'Game'
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(506): error C2065: 'current_world' : undeclared identifier
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(506): error C2227: left of '->current_position_y' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+         Text_Box.cpp
+         Special Platform.cpp
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(233): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(235): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(246): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(248): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(502): error C2039: 'current_world' : is not a member of 'Game'
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(502): error C2065: 'current_world' : undeclared identifier
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(502): error C2227: left of '->current_position_x' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(506): error C2039: 'current_world' : is not a member of 'Game'
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(506): error C2065: 'current_world' : undeclared identifier
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(506): error C2227: left of '->current_position_y' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+         Save Box.cpp
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(233): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(235): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(246): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(248): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(502): error C2039: 'current_world' : is not a member of 'Game'
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(502): error C2065: 'current_world' : undeclared identifier
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(502): error C2227: left of '->current_position_x' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(506): error C2039: 'current_world' : is not a member of 'Game'
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(506): error C2065: 'current_world' : undeclared identifier
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(506): error C2227: left of '->current_position_y' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+         main_game.cpp
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(233): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(235): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(246): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(248): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(502): error C2039: 'current_world' : is not a member of 'Game'
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(502): error C2065: 'current_world' : undeclared identifier
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(502): error C2227: left of '->current_position_x' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(506): error C2039: 'current_world' : is not a member of 'Game'
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(506): error C2065: 'current_world' : undeclared identifier
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(506): error C2227: left of '->current_position_y' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+         Image Processing.cpp
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(233): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(235): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(246): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(248): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(502): error C2039: 'current_world' : is not a member of 'Game'
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(502): error C2065: 'current_world' : undeclared identifier
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(502): error C2227: left of '->current_position_x' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(506): error C2039: 'current_world' : is not a member of 'Game'
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(506): error C2065: 'current_world' : undeclared identifier
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(506): error C2227: left of '->current_position_y' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+         I Wanna Be The Bunky.cpp
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(233): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(235): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(246): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(248): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(502): error C2039: 'current_world' : is not a member of 'Game'
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(502): error C2065: 'current_world' : undeclared identifier
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(502): error C2227: left of '->current_position_x' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(506): error C2039: 'current_world' : is not a member of 'Game'
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(506): error C2065: 'current_world' : undeclared identifier
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(506): error C2227: left of '->current_position_y' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+         Hazards.cpp
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(233): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(235): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(246): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(248): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(502): error C2039: 'current_world' : is not a member of 'Game'
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(502): error C2065: 'current_world' : undeclared identifier
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(502): error C2227: left of '->current_position_x' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(506): error C2039: 'current_world' : is not a member of 'Game'
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(506): error C2065: 'current_world' : undeclared identifier
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(506): error C2227: left of '->current_position_y' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+         globals.cpp
+         Smart Object.cpp
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(233): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(235): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(246): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(248): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(502): error C2039: 'current_world' : is not a member of 'Game'
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(502): error C2065: 'current_world' : undeclared identifier
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(502): error C2227: left of '->current_position_x' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(506): error C2039: 'current_world' : is not a member of 'Game'
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(506): error C2065: 'current_world' : undeclared identifier
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(506): error C2227: left of '->current_position_y' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+         Music and Sound.cpp
+         Game Event.cpp
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(233): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(235): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(246): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(248): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(502): error C2039: 'current_world' : is not a member of 'Game'
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(502): error C2065: 'current_world' : undeclared identifier
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(502): error C2227: left of '->current_position_x' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(506): error C2039: 'current_world' : is not a member of 'Game'
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(506): error C2065: 'current_world' : undeclared identifier
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(506): error C2227: left of '->current_position_y' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+         Enemy.cpp
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(233): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(235): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(246): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(248): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(502): error C2039: 'current_world' : is not a member of 'Game'
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(502): error C2065: 'current_world' : undeclared identifier
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(502): error C2227: left of '->current_position_x' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(506): error C2039: 'current_world' : is not a member of 'Game'
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(506): error C2065: 'current_world' : undeclared identifier
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(506): error C2227: left of '->current_position_y' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+         Doorway.cpp
+         Collision Information.cpp
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(233): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(235): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(246): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(248): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(502): error C2039: 'current_world' : is not a member of 'Game'
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(502): error C2065: 'current_world' : undeclared identifier
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(502): error C2227: left of '->current_position_x' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(506): error C2039: 'current_world' : is not a member of 'Game'
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(506): error C2065: 'current_world' : undeclared identifier
+     1>c:\users\alex\desktop\i wanna be the bunky filez\i wanna be the bunky\Worlds and Maps.h(506): error C2227: left of '->current_position_y' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+         Bullet.cpp
+         Boss Health.cpp
+         Generating Code...
+     1>Done Building Project "C:\Users\Alex\Desktop\I Wanna Be The Bunky filez\I Wanna Be The Bunky\I Wanna Be The Bunky.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:39.04

@@ -1,0 +1,6 @@
+1000 5824 352
+2 1980 -200 Moon_Instructions_1.txt
+2 1700 -200 Moon_Instructions_2.txt
+2 9460 -160 Moon_Instructions_3.txt
+34 0 0 400 400 0.05 0.05 Background.png
+3 7 430
